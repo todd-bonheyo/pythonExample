@@ -24,3 +24,6 @@ vm.print_stock()
 vm.refill()
 vm.print_stock()
 print(vm)
+
+#Comment as an example
+print(vm)
