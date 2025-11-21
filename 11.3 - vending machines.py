@@ -26,4 +26,8 @@ vm.print_stock()
 print(vm)
 
 #Comment as an example
+# Commit marker: small non-functional change to trigger a commit
+print(vm)
+
+#test push to github
 print(vm)
