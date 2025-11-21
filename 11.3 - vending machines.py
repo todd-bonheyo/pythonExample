@@ -25,6 +25,10 @@ vm.refill()
 vm.print_stock()
 print(vm)
  
-# Commit marker for: example
+ #Random example
+vm2 = VendingMachine(5)
+print(vm2)
+
+# an example from Nov 21
 
 
